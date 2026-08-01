@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://havain-military-rank-hmr.vercel.app/sitemap.xml
